@@ -1,5 +1,5 @@
 # docker-hacks
-This repo will be use for my "Docker-Hacks" stories. 
+This repo will be used for my "Docker-Hacks" stories. 
 
 Regards
 Ivan
