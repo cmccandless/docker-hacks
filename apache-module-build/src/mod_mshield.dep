@@ -1,0 +1,8 @@
+# Microsoft Developer Studio Generated Dependency File, included by mod_mshield.mak
+
+!IF  "$(CFG)" == "mod_mshield - Win32 Release"
+
+!ELSEIF  "$(CFG)" == "mod_mshield - Win32 Debug"
+
+!ENDIF 
+
